@@ -8,7 +8,7 @@ The application continuously generates deterministic mock telemetry every 1.5 se
 
 ## Live application
 
-The production Vercel URL is added here after deployment.
+The project is ready to import into Vercel from this GitHub repository. Deployment is intentionally left to the repository owner; the exact steps are documented in [Vercel deployment](#vercel-deployment).
 
 ## Problem statement
 
